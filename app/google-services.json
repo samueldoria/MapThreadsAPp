@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "813553914178",
+    "project_id": "maptask2-c51e6",
+    "storage_bucket": "maptask2-c51e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813553914178:android:12d00260e46db52599b8db",
+        "android_client_info": {
+          "package_name": "com.example.mapthreadsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9Z-hu5CqM81qB-lP0142WthWaTVUMqz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
